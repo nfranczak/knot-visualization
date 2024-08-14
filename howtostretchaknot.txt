@@ -1,0 +1,11 @@
+Suppose we have some knot. We then click on a part of the knot. This then colors that part of the
+knot. The coloring of the knot extends in both directions by some predetermined value.
+We then can stretch the knot in the plane that it is is. If we rotate while stretching this can
+then create nice bends to it. If we rotate the knot such that we are interacting with two or more
+points at a time we cannot stretch it, i.e. we need the points we can to manipulate to be 
+well-defined in the mathematical sense. 
+Another rule we should impose is that we cannot cross an existing line through a stretch.
+
+This should be an interesting problem in terms of how the knot is representing as it is stretched.
+A trefoil knot may be parametrized in x,y,z through sine and cosine. 
+Do I want to be able to edit the the equation on the fly?
